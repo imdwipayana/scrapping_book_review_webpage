@@ -51,6 +51,7 @@ All data was collected from books.toscrape.com
 ## 👨‍💻 Author
 
 Developed by Eka Dwipayana
+
 🔗 [View the deployed interactive dashboard](https://scrappingbookreviewwebpage.streamlit.app/)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/eka-dwipayana/)
