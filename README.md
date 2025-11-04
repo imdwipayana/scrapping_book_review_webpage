@@ -39,7 +39,7 @@ Pandas / Matplotlib
 Streamlit (for web dashboard)
 
 ⚙️ Run Locally
-git clone https://github.com/YOUR-USERNAME/books-scraping-dashboard.git
+git clone https://github.com/imdwipayana/scrapping_book_review_webpage
 cd books-scraping-dashboard
 pip install -r requirements.txt
 streamlit run app.py
